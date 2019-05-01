@@ -1,0 +1,8 @@
+logs/
+target/
+*.iml
+.idea/
+config/properties-override
+notes.txt
+.attach_*
+src/test/resources/downloads
